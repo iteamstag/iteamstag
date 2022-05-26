@@ -1,4 +1,4 @@
-# Iteamstag
+# ✨Iteamstag #iteamstag Application that facilitates work for companies, flexible communication between the manager and employees, and documenting daily tasks✨
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
