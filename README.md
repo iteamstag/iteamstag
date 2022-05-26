@@ -1,4 +1,4 @@
-### ✨Iteamstag #iteamstag Application that facilitates work for companies, flexible communication between the manager and employees, and documenting daily tasks✨
+### ✨Iteamstag #iteamstag Application that facilitates work for companies, flexible communication between the manager and employees, and documenting daily tasks.✨
 
 <!--
 **iteamstag/iteamstag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
