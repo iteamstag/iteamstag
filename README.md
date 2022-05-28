@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# ✨Iteamstag #iteamstag Application that facilitates work for companies, flexible communication between the manager and employees, and documenting daily tasks✨
+# ✨Iteamstag #iteamstag Application that facilitates work for companies, flexible communication between the manager and employees, and documenting daily tasks✨company: Hexaexport✨
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
@@ -27,7 +27,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 =======
-### ✨Iteamstag #iteamstag Application that facilitates work for companies, flexible communication between the manager and employees, and documenting daily tasks.✨
+### ✨Iteamstag #iteamstag Application that facilitates work for companies, flexible communication between the manager and employees, and documenting daily tasks.✨company: Hexaexport✨
 
 <!--
 **iteamstag/iteamstag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
